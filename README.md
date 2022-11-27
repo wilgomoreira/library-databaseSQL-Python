@@ -4,4 +4,3 @@
 
 ## Library created in Python
 
-# library-databaseSQL-Python
